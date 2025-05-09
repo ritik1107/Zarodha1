@@ -1,0 +1,44 @@
+#one {
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 2px 1px 2px #eee;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+#two {
+  display: flex;
+}
+
+.sat {
+  padding: 18px;
+  color: #666;
+  cursor: pointer;
+}
+
+.yani {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+.sat2 {
+  display: flex;
+  justify-content: center;
+}
+
+#three {
+  background-color: #387ed1;
+  padding: 10px;
+  color: white;
+  border-radius: 3px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.sat2 h2 {
+  font-weight: 200;
+  font-family: Int;
+}
+img {
+  padding-top: 18px;
+}
